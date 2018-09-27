@@ -39,12 +39,12 @@
 
 \begin{document}
 
-
 \input{cover} %「cover.tex」というファイルを同じディレクトリ上においておくこと．
-%
+
 \frontmatter
 
-\begin{abstract} % 論文主旨
+% 論文主旨
+\begin{abstract} 
 \begin{center}
 {\large Abstract}\\
 \end{center}
@@ -65,15 +65,16 @@ ETCCはこういう特徴があってすごいよ
 東西効果も見れたよ（？）
 \end{abstract}
 
-\tableofcontents　%目次
+%Index
+\setcounter{tocdepth}{3}
+\tableofcontents　
 
  % 本文
- %本文は章や節ごとに分割して別々のファイルにして管理し，\input{}で挿入していくのがよいだろう．
 \mainmatter
 
-\chapter{はじめに}
-\section{さらにはじめに}
-\subsection{さらにさらにはじめに}
+%Chapter1
+\input{chapter1/chapter1}
+
 
 %あとがき
  \backmatter

@@ -1,10 +1,10 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  27 SEP 2018 21:15
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  27 SEP 2018 22:51
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**shuron.tex
-(./shuron.tex
+**main.tex
+(./main.tex
 pLaTeX2e <2016/11/29u01> (based on LaTeX2e <2017/01/01> patch level 3)
 Babel <3.9r> and hyphenation patterns for 83 language(s) loaded.
 (/usr/local/texlive/2016/texmf-dist/tex/platex/jsclasses/jsbook.cls
@@ -219,8 +219,8 @@ Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
 (/usr/local/texlive/2016/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
 )
-(./shuron.aux)
-\openout1 = `shuron.aux'.
+(./main.aux)
+\openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 40.
 LaTeX Font Info:    ... okay on input line 40.
@@ -256,72 +256,72 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 
 ])
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 68.
+(Font)              scaled to size 9.24683pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 68.
+(Font)              scaled to size 9.24683pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 68.
+(Font)              scaled to size 6.47278pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 68.
-LaTeX Font Info:    Try loading font information for U+msa on input line 68.
+(Font)              scaled to size 4.62341pt on input line 70.
+LaTeX Font Info:    Try loading font information for U+msa on input line 70.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 68.
+LaTeX Font Info:    Try loading font information for U+msb on input line 70.
 
 (/usr/local/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 6.47278pt on input line 68.
+(Font)              scaled to size 6.47278pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 4.62341pt on input line 68.
+(Font)              scaled to size 4.62341pt on input line 70.
 LaTeX Font Info:    Font shape `JT2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JT2/gt/m/n' tried instead on input line 68.
+(Font)              Font shape `JT2/gt/m/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 68.
+(Font)              scaled to size 9.24683pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/mc/bx/n' in size <10> not available
-(Font)              Font shape `JY2/gt/m/n' tried instead on input line 68.
+(Font)              Font shape `JY2/gt/m/n' tried instead on input line 70.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 9.24683pt on input line 68.
+(Font)              scaled to size 9.24683pt on input line 70.
  [1
 
 ]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 68.
+(Font)              scaled to size 23.0061pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 68.
+(Font)              scaled to size 23.0061pt on input line 70.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 68.
+(Font)              scaled to size 23.0061pt on input line 70.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 23.0061pt on input line 68.
-
-(./shuron.toc)
+(Font)              scaled to size 23.0061pt on input line 70.
+ (./main.toc)
 \tf@toc=\write3
-\openout3 = `shuron.toc'.
+\openout3 = `main.toc'.
 
  [2
 
-]
+] (./chapter1/chapter1.tex
 第1章
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 74.
+(Font)              scaled to size 19.17792pt on input line 1.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 19.17792pt on input line 74.
+(Font)              scaled to size 19.17792pt on input line 1.
+(./chapter1/1_1/chapter1_1.tex
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 75.
+(Font)              scaled to size 13.31541pt on input line 1.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 75.
+(Font)              scaled to size 13.31541pt on input line 1.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 75.
+(Font)              scaled to size 13.31541pt on input line 1.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 75.
+(Font)              scaled to size 13.31541pt on input line 1.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 76.
+(Font)              scaled to size 11.09619pt on input line 2.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 76.
-[1
+(Font)              scaled to size 11.09619pt on input line 2.
+)) [1
 
 
 ] [2
@@ -329,27 +329,27 @@ LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 
 ]
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 91.
+(Font)              scaled to size 8.32214pt on input line 92.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 91.
+(Font)              scaled to size 8.32214pt on input line 92.
 LaTeX Font Info:    Font shape `JT2/mc/m/it' in size <9> not available
-(Font)              Font shape `JT2/mc/m/n' tried instead on input line 93.
+(Font)              Font shape `JT2/mc/m/n' tried instead on input line 94.
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 93.
+(Font)              scaled to size 8.32214pt on input line 94.
 LaTeX Font Info:    Font shape `JY2/mc/m/it' in size <9> not available
-(Font)              Font shape `JY2/mc/m/n' tried instead on input line 93.
+(Font)              Font shape `JY2/mc/m/n' tried instead on input line 94.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 93.
+(Font)              scaled to size 8.32214pt on input line 94.
  [3
 
-] (./shuron.aux) ) 
+] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2189 strings out of 493679
- 26423 string characters out of 6149847
+ 2197 strings out of 493679
+ 26541 string characters out of 6149847
  89341 words of memory out of 5000000
  5729 multiletter control sequences out of 15000+600000
  18697 words of font info for 92 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 29i,8n,26p,1850b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,26p,1848b,246s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on shuron.dvi (6 pages, 6888 bytes).
+Output written on main.dvi (6 pages, 7296 bytes).
