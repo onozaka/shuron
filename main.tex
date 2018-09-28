@@ -14,7 +14,8 @@
 %使用するパッケージを記述．
 \usepackage{amsmath, amssymb} %複雑な数式などを打つときに使用．
 \usepackage{bm} %数式環境内で太字を使うときに便利．
-\usepackage{graphicx} %画像を挿入したり，テキストや図の拡大縮小・回転を行う．
+%\usepackage{graphicx} %画像を挿入したり，テキストや図の拡大縮小・回転を行う．
+\usepackage[dvipdfmx]{graphicx}
 \usepackage{subfigure} %図を並べる（今はsubfigとかsubcaptionとかが推奨らしい．よく知らない）
 \usepackage{verbatim} %入力どおりの出力を行う．
 \usepackage{ascmac} %テキストを枠で囲んだりできるが，微小なズレがでたりする．
@@ -32,11 +33,14 @@
 \setlength{\textheight}{242truemm}     % テキスト高さ: 297-(25+30)=242mm
 \addtolength{\topmargin}{-1truein}     % 上位置デフォルトから-1inch
 
+%enumerate環境を1. 2.の形式から(1) (2)の形式へ変更（文書全体）．
+\renewcommand{\labelenumi}{(\arabic{enumi}) } 
 
-\renewcommand{\labelenumi}{(\arabic{enumi}) } %enumerate環境を1. 2.の形式から(1) (2)の形式へ変更（文書全体）．
 
-%\setcounter{tocdepth}{2} %項レベルまで目次に反映させるコマンド．
+%画像フォルダへのパス
+\graphicspath{{./chapter1/1_1/}}
 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
 
 \input{cover} %「cover.tex」というファイルを同じディレクトリ上においておくこと．
