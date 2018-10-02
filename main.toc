@@ -1,5 +1,5 @@
 \contentsline {chapter}{\numberline {第1章}MeVガンマ線天文学}{1}
 \contentsline {section}{\numberline {1.1}これまでのMeVガンマ線天文学}{1}
 \contentsline {subsection}{\numberline {1.1.1}MeVガンマ線領域}{1}
-\contentsline {chapter}{あとがき}{2}
-\contentsline {chapter}{参考文献}{3}
+\contentsline {chapter}{あとがき}{3}
+\contentsline {chapter}{参考文献}{4}
