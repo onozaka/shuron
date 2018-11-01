@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  2 OCT 2018 17:45
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  1 NOV 2018 20:49
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -346,7 +346,11 @@ LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 8.32214pt on input line 98.
  [4
 
-] (./main.aux) ) 
+] (./main.aux)
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
  2242 strings out of 493679
  27246 string characters out of 6149847
@@ -356,4 +360,4 @@ Here is how much of TeX's memory you used:
  934 hyphenation exceptions out of 8191
  29i,8n,26p,1848b,305s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (7 pages, 9644 bytes).
+Output written on main.dvi (7 pages, 12664 bytes).
