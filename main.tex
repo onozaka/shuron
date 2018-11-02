@@ -38,7 +38,8 @@
 
 
 %画像フォルダへのパス
-\graphicspath{{./chapter1/1_1/}}
+%\graphicspath{{./chapter1/}}
+%\graphicspath{{./chapter1/1_1/}}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \begin{document}
@@ -85,16 +86,13 @@ ETCCはこういう特徴があってすごいよ
 \chapter{あとがき}
 ありがとうございました．
 
-%参考文献（bibtex不使用で，手動で入力する場合．字下げの形式は『社会学評論スタイルガイド』にしたがっている）
+%参考文献
 \def\bibindent{1.85em}
 \begin{thebibliography}{99\kern\bibindent}
-\makeatletter
-\def\@biblabel#1{}
-\let\old@bibitem\bibitem
-\def\bibitem#1{\old@bibitem{#1}\leavevmode\kern-\bibindent}
-\makeatother
-\small
-\bibitem{}
-Granovetter, Mark. 1973. ``The Strength of Weak Ties." \textit{American Journal of Sociology} 78(6): 1360--80.
+%%%
+\bibitem{oda_and_matsuoka} M.Oda abd K.Matsuoka; \textit{Progress in Elementary Particles and Cosmic-Ray Physics}, \textbf{10} (1971), 305.
+%%%
 \end{thebibliography}
+
 \end{document}
+
