@@ -1,4 +1,4 @@
-This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  2 NOV 2018 16:35
+This is e-upTeX, Version 3.14159265-p3.7-u1.21-160201-2.6 (utf8.uptex) (TeX Live 2016) (preloaded format=uplatex 2017.5.10)  5 NOV 2018 19:40
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -309,31 +309,37 @@ LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 2.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
 (Font)              scaled to size 19.17792pt on input line 2.
-File: /Users/ken/Documents/shuron/chapter1/atmosphere_absorption.png Graphic fi
-le (type bmp)
-</Users/ken/Documents/shuron/chapter1/atmosphere_absorption.png>
-LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 14.
-LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 8.32214pt on input line 14.
-
 (./chapter1/1_1/chapter1_1.tex
 LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 1.
+(Font)              scaled to size 13.31541pt on input line 10.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 1.
+(Font)              scaled to size 13.31541pt on input line 10.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 1.
+(Font)              scaled to size 13.31541pt on input line 10.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 13.31541pt on input line 1.
+(Font)              scaled to size 13.31541pt on input line 10.
 LaTeX Font Info:    Font shape `JT2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 2.
+(Font)              scaled to size 11.09619pt on input line 11.
 LaTeX Font Info:    Font shape `JY2/gt/m/n' will be
-(Font)              scaled to size 11.09619pt on input line 2.
-)) [1
+(Font)              scaled to size 11.09619pt on input line 11.
+File: /Users/ken/Documents/shuron/chapter1/1_1/atmosphere_absorption.png Graphi
+c file (type bmp)
+
+</Users/ken/Documents/shuron/chapter1/1_1/atmosphere_absorption.png>
+LaTeX Font Info:    Font shape `JT2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 24.
+LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
+(Font)              scaled to size 8.32214pt on input line 24.
+File: /Users/ken/Documents/shuron/chapter1/1_1/science_sensitivity.png Graphic 
+file (type bmp)
+
+</Users/ken/Documents/shuron/chapter1/1_1/science_sensitivity.png> [1
 
 
-] [2] [3
+] [2])
+(./chapter1/1_2/chapter1_2.tex)) [3
+
+] [4
 
 
 ]
@@ -345,16 +351,16 @@ LaTeX Font Info:    Font shape `JY2/mc/m/it' in size <10> not available
 (Font)              Font shape `JY2/mc/m/n' tried instead on input line 93.
 LaTeX Font Info:    Font shape `JY2/mc/m/n' will be
 (Font)              scaled to size 9.24683pt on input line 93.
- [4
+ [5
 
 ] (./main.aux) ) 
 Here is how much of TeX's memory you used:
- 2243 strings out of 493679
- 27397 string characters out of 6149847
+ 2251 strings out of 493679
+ 27686 string characters out of 6149847
  90745 words of memory out of 5000000
- 5770 multiletter control sequences out of 15000+600000
+ 5773 multiletter control sequences out of 15000+600000
  18698 words of font info for 92 fonts, out of 8000000 for 9000
  934 hyphenation exceptions out of 8191
- 29i,8n,26p,1848b,330s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 29i,8n,26p,1848b,324s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on main.dvi (7 pages, 13744 bytes).
+Output written on main.dvi (8 pages, 14768 bytes).

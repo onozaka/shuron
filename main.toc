@@ -1,5 +1,9 @@
 \contentsline {chapter}{\numberline {第1章}MeVガンマ線天文学}{1}
-\contentsline {section}{\numberline {1.1}これまでのMeVガンマ線天文学}{2}
-\contentsline {subsection}{\numberline {1.1.1}MeVガンマ線領域}{2}
-\contentsline {chapter}{あとがき}{3}
-\contentsline {chapter}{参考文献}{4}
+\contentsline {section}{\numberline {1.1}MeVガンマ線領域}{1}
+\contentsline {subsection}{\numberline {1.1.1}多波長と比べた時のMeVガンマ線の特徴}{1}
+\contentsline {section}{\numberline {1.2}核ガンマ線観測}{3}
+\contentsline {subsection}{\numberline {1.2.1}核ガンマ線}{3}
+\contentsline {subsection}{\numberline {1.2.2}Ia}{3}
+\contentsline {subsection}{\numberline {1.2.3}重力崩壊型}{3}
+\contentsline {chapter}{あとがき}{4}
+\contentsline {chapter}{参考文献}{5}
